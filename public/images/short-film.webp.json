@@ -1,0 +1,5 @@
+{
+  "prompt": "Use case: photorealistic-natural\nAsset type: original FRAME ACADEMY The Art of the Short Film course cover, landscape 1536x1024.\nPrimary request: A cinematic nighttime view from outside through a rain-streaked diner window. One fictional adult person is seated alone at a booth, quietly reading a small plain letter.\nComposition/framing: Intentional wide establishing composition. Person and booth are small enough to establish surrounding diner space, placed near the right third. Exterior glass with delicate rain trails lies in the foreground; layered but clear visual story. Correct plausible architecture and perspective.\nLighting/mood: amber practical pendant lights inside, muted cyan dusk reflected in wet glass outside, emotionally quiet observational moment.\nMaterials/textures: wet glass, old vinyl booth, worn counter, fine photographic grain, nuanced highlight reflections.\nConstraints: no other people, no text or readable signs, no logos, UI, watermark, no illustration or CGI. Produce one finished original cinematic photograph.",
+  "source": "Original built-in ImageGen asset, 2026-09-10",
+  "fictional": true
+}

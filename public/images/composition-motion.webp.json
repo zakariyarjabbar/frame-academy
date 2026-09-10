@@ -1,0 +1,5 @@
+{
+  "prompt": "Use case: photorealistic-natural\nAsset type: original FRAME ACADEMY Composition in Motion course cover, landscape 1536x1024.\nPrimary request: A lone adult cyclist crossing a sunlit concrete underpass, photographed as a considered documentary image.\nComposition/framing: Wide landscape, intentional rule-of-thirds framing, cyclist on the right third traveling toward the left, immense architectural negative space and clean concrete planes with strong shadow geometry. Entire bicycle visible and physically plausible. Subtle camera panning makes background movement visible while cyclist remains readable.\nLighting/mood: natural late-afternoon sunlight cuts across raw concrete, dramatic deep shaded foreground, quiet urban moment.\nColor palette: muted warm concrete, charcoal shadows, restrained natural documentary color.\nMaterials/textures: aged concrete and believable bicycle and garments, photographic grain.\nConstraints: original fictional adult, no lettering, readable signs, logos, UI, watermark, no illustration or CGI. Produce one finished photograph.",
+  "source": "Original built-in ImageGen asset, 2026-09-10",
+  "fictional": true
+}

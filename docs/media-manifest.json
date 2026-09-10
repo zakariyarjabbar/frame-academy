@@ -1,0 +1,80 @@
+[
+  {
+    "id": "light-shadow",
+    "file": "/media/light-shadow.mp4",
+    "duration": 60,
+    "bytes": 842143,
+    "codec": "h264",
+    "width": 1280,
+    "height": 720,
+    "format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "caption": "/media/light-shadow.vtt",
+    "transcript": "/resources/light-shadow-transcript.txt",
+    "poster": "/images/light-shadow.webp"
+  },
+  {
+    "id": "composition-motion",
+    "file": "/media/composition-motion.mp4",
+    "duration": 60,
+    "bytes": 731466,
+    "codec": "h264",
+    "width": 1280,
+    "height": 720,
+    "format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "caption": "/media/composition-motion.vtt",
+    "transcript": "/resources/composition-motion-transcript.txt",
+    "poster": "/images/composition-motion.webp"
+  },
+  {
+    "id": "portraits-presence",
+    "file": "/media/portraits-presence.mp4",
+    "duration": 60,
+    "bytes": 688035,
+    "codec": "h264",
+    "width": 1280,
+    "height": 720,
+    "format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "caption": "/media/portraits-presence.vtt",
+    "transcript": "/resources/portraits-presence-transcript.txt",
+    "poster": "/images/portraits-presence.webp"
+  },
+  {
+    "id": "short-film",
+    "file": "/media/short-film.mp4",
+    "duration": 60,
+    "bytes": 1112113,
+    "codec": "h264",
+    "width": 1280,
+    "height": 720,
+    "format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "caption": "/media/short-film.vtt",
+    "transcript": "/resources/short-film-transcript.txt",
+    "poster": "/images/short-film.webp"
+  },
+  {
+    "id": "color-mood",
+    "file": "/media/color-mood.mp4",
+    "duration": 60,
+    "bytes": 809865,
+    "codec": "h264",
+    "width": 1280,
+    "height": 720,
+    "format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "caption": "/media/color-mood.vtt",
+    "transcript": "/resources/color-mood-transcript.txt",
+    "poster": "/images/color-mood.webp"
+  },
+  {
+    "id": "edit-story",
+    "file": "/media/edit-story.mp4",
+    "duration": 60,
+    "bytes": 948199,
+    "codec": "h264",
+    "width": 1280,
+    "height": 720,
+    "format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "caption": "/media/edit-story.vtt",
+    "transcript": "/resources/edit-story-transcript.txt",
+    "poster": "/images/edit-story.webp"
+  }
+]

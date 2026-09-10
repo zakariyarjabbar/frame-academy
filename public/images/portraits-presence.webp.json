@@ -1,0 +1,5 @@
+{
+  "prompt": "Use case: photorealistic-natural\nAsset type: original FRAME ACADEMY Portraits with Presence course cover, landscape 1536x1024.\nPrimary request: A frontal studio portrait of a fictional Black woman in her late twenties with cropped natural hair, steady natural expression and plain dark clothes.\nComposition/framing: Landscape head-and-shoulders portrait, face slightly right of center, natural shoulder line, enough studio backdrop to feel composed and quiet. Eyes looking into camera.\nLighting/mood: soft warm side light from one large window, dimensional face, deep muted olive seamless background.\nMaterials/textures: realistic varied skin texture, pores, authentic hair detail and fabric weave, no airbrushed beauty retouching.\nColor palette: deep olive, brown skin tones, charcoal, muted warm light.\nConstraints: original fictional person, no celebrity resemblance, no lettering, logo, UI, watermark, no illustration or CGI. Produce one finished photographic portrait.",
+  "source": "Original built-in ImageGen asset, 2026-09-10",
+  "fictional": true
+}

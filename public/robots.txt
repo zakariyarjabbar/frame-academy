@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Portfolio demo: pages carry noindex, follow metadata.
+# Public imagery remains fetchable for link previews after authorized hosting.

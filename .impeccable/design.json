@@ -1,0 +1,335 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-10T11:11:22.927939Z",
+  "title": "Design System: FRAME ACADEMY",
+  "extensions": {
+    "colorMeta": {
+      "canvas": {
+        "role": "neutral",
+        "displayName": "Charcoal canvas",
+        "tonalRamp": [
+          "oklch(15.00% 0.00506 248.08)",
+          "oklch(26.43% 0.00506 248.08)",
+          "oklch(37.86% 0.00506 248.08)",
+          "oklch(49.29% 0.00506 248.08)",
+          "oklch(60.71% 0.00506 248.08)",
+          "oklch(72.14% 0.00506 248.08)",
+          "oklch(83.57% 0.00506 248.08)",
+          "oklch(95.00% 0.00506 248.08)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Raised charcoal",
+        "tonalRamp": [
+          "oklch(15.00% 0.00806 240.17)",
+          "oklch(26.43% 0.00806 240.17)",
+          "oklch(37.86% 0.00806 240.17)",
+          "oklch(49.29% 0.00806 240.17)",
+          "oklch(60.71% 0.00806 240.17)",
+          "oklch(72.14% 0.00806 240.17)",
+          "oklch(83.57% 0.00806 240.17)",
+          "oklch(95.00% 0.00806 240.17)"
+        ]
+      },
+      "ivory": {
+        "role": "neutral",
+        "displayName": "Warm ivory",
+        "tonalRamp": [
+          "oklch(15.00% 0.00670 97.35)",
+          "oklch(26.43% 0.00670 97.35)",
+          "oklch(37.86% 0.00670 97.35)",
+          "oklch(49.29% 0.00670 97.35)",
+          "oklch(60.71% 0.00670 97.35)",
+          "oklch(72.14% 0.00670 97.35)",
+          "oklch(83.57% 0.00670 97.35)",
+          "oklch(95.00% 0.00670 97.35)"
+        ]
+      },
+      "acid": {
+        "role": "primary",
+        "displayName": "Acid yellow",
+        "tonalRamp": [
+          "oklch(15.00% 0.15672 113.77)",
+          "oklch(26.43% 0.15672 113.77)",
+          "oklch(37.86% 0.15672 113.77)",
+          "oklch(49.29% 0.15672 113.77)",
+          "oklch(60.71% 0.15672 113.77)",
+          "oklch(72.14% 0.15672 113.77)",
+          "oklch(83.57% 0.15672 113.77)",
+          "oklch(95.00% 0.15672 113.77)"
+        ]
+      },
+      "silver": {
+        "role": "neutral",
+        "displayName": "Silver",
+        "tonalRamp": [
+          "oklch(15.00% 0.00883 236.60)",
+          "oklch(26.43% 0.00883 236.60)",
+          "oklch(37.86% 0.00883 236.60)",
+          "oklch(49.29% 0.00883 236.60)",
+          "oklch(60.71% 0.00883 236.60)",
+          "oklch(72.14% 0.00883 236.60)",
+          "oklch(83.57% 0.00883 236.60)",
+          "oklch(95.00% 0.00883 236.60)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Slate rule",
+        "tonalRamp": [
+          "oklch(15.00% 0.00631 228.97)",
+          "oklch(26.43% 0.00631 228.97)",
+          "oklch(37.86% 0.00631 228.97)",
+          "oklch(49.29% 0.00631 228.97)",
+          "oklch(60.71% 0.00631 228.97)",
+          "oklch(72.14% 0.00631 228.97)",
+          "oklch(83.57% 0.00631 228.97)",
+          "oklch(95.00% 0.00631 228.97)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Charcoal ink",
+        "tonalRamp": [
+          "oklch(15.00% 0.00506 248.08)",
+          "oklch(26.43% 0.00506 248.08)",
+          "oklch(37.86% 0.00506 248.08)",
+          "oklch(49.29% 0.00506 248.08)",
+          "oklch(60.71% 0.00506 248.08)",
+          "oklch(72.14% 0.00506 248.08)",
+          "oklch(83.57% 0.00506 248.08)",
+          "oklch(95.00% 0.00506 248.08)"
+        ]
+      },
+      "danger": {
+        "role": "semantic",
+        "displayName": "Warm peach error",
+        "tonalRamp": [
+          "oklch(15.00% 0.07785 40.40)",
+          "oklch(26.43% 0.07785 40.40)",
+          "oklch(37.86% 0.07785 40.40)",
+          "oklch(49.29% 0.07785 40.40)",
+          "oklch(60.71% 0.07785 40.40)",
+          "oklch(72.14% 0.07785 40.40)",
+          "oklch(83.57% 0.07785 40.40)",
+          "oklch(95.00% 0.07785 40.40)"
+        ]
+      },
+      "acid-hover": {
+        "role": "primary",
+        "displayName": "Pale acid hover",
+        "tonalRamp": [
+          "oklch(15.00% 0.10128 112.39)",
+          "oklch(26.43% 0.10128 112.39)",
+          "oklch(37.86% 0.10128 112.39)",
+          "oklch(49.29% 0.10128 112.39)",
+          "oklch(60.71% 0.10128 112.39)",
+          "oklch(72.14% 0.10128 112.39)",
+          "oklch(83.57% 0.10128 112.39)",
+          "oklch(95.00% 0.10128 112.39)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Page display",
+        "purpose": "Base public page h1; Barlow alias loads Barlow Condensed."
+      },
+      "hero": {
+        "displayName": "Photographic hero",
+        "purpose": "Homepage promise beside the photograph; responsive overrides live in CSS."
+      },
+      "headline": {
+        "displayName": "Section headline",
+        "purpose": "Base h2 role."
+      },
+      "title": {
+        "displayName": "Section title",
+        "purpose": "Base h3 role; individual cards have contextual overrides."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Ordinary text and operating context; DM alias loads DM Sans."
+      },
+      "reading": {
+        "displayName": "Lesson reading",
+        "purpose": "Longer instructional paragraphs with comfortable 1.85 leading."
+      },
+      "label": {
+        "displayName": "Field label and small text",
+        "purpose": "Field labels, descriptions, and filter tags."
+      },
+      "control": {
+        "displayName": "Button control",
+        "purpose": "Main action labels."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "button-state",
+        "value": "background .18s, color .18s, border-color .18s",
+        "purpose": "Default button state transitions use CSS ease."
+      },
+      {
+        "name": "course-image-hover",
+        "value": "transform .5s cubic-bezier(.22,1,.36,1)",
+        "purpose": "Scale the course image to 1.035 on card hover."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "transition: none; animation: none; scroll-behavior: auto",
+        "purpose": "Global reduced-motion override."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-desktop-max",
+        "value": "1100px"
+      },
+      {
+        "name": "tablet-max",
+        "value": "800px"
+      },
+      {
+        "name": "mobile-max",
+        "value": "520px"
+      },
+      {
+        "name": "wide-hero-min",
+        "value": "1600px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Shared square action with its implemented hover, focus, and disabled treatments.",
+      "html": "<button class=\"ds-button-primary\" type=\"button\">Browse courses<svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M4 12h16m-6-6 6 6-6 6\"/></svg></button>",
+      "css": ".ds-button-primary{display:inline-flex;min-height:48px;align-items:center;justify-content:center;gap:14px;padding:13px 23px;background:var(--acid, #e5f16c);border:1px solid var(--acid, #e5f16c);border-radius:0;color:var(--ink, #151719);font:600 .875rem/1.4 var(--font-body, DM, Arial, sans-serif);transition:background .18s,color .18s,border-color .18s;text-align:center;cursor:pointer;}.ds-button-primary:hover{background:#f0f7a7;border-color:#f0f7a7;color:var(--ink, #151719);}.ds-button-primary:disabled{cursor:not-allowed;opacity:.5;}.ds-button-primary:focus-visible{outline:2px solid var(--acid, #e5f16c);outline-offset:5px;}@media(prefers-reduced-motion:reduce){.ds-button-primary{transition:none;}}"
+    },
+    {
+      "name": "Default button",
+      "kind": "button",
+      "refersTo": "button-default",
+      "description": "Shared square action with its implemented hover, focus, and disabled treatments.",
+      "html": "<button class=\"ds-button-default\" type=\"button\">Save note</button>",
+      "css": ".ds-button-default{display:inline-flex;min-height:48px;align-items:center;justify-content:center;gap:14px;padding:13px 23px;background:var(--ivory, #f8f7f2);border:1px solid var(--ivory, #f8f7f2);border-radius:0;color:var(--ink, #151719);font:600 .875rem/1.4 var(--font-body, DM, Arial, sans-serif);transition:background .18s,color .18s,border-color .18s;text-align:center;cursor:pointer;}.ds-button-default:hover{background:var(--acid, #e5f16c);border-color:var(--acid, #e5f16c);color:var(--ink, #151719);}.ds-button-default:disabled{cursor:not-allowed;opacity:.5;}.ds-button-default:focus-visible{outline:2px solid var(--acid, #e5f16c);outline-offset:5px;}@media(prefers-reduced-motion:reduce){.ds-button-default{transition:none;}}"
+    },
+    {
+      "name": "Secondary button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Shared square action with its implemented hover, focus, and disabled treatments.",
+      "html": "<button class=\"ds-button-secondary\" type=\"button\">Save course<svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M6 3h12v18l-6-4-6 4Z\"/></svg></button>",
+      "css": ".ds-button-secondary{display:inline-flex;min-height:48px;align-items:center;justify-content:center;gap:14px;padding:13px 23px;background:transparent;border:1px solid var(--line, #414547);border-radius:0;color:var(--ivory, #f8f7f2);font:600 .875rem/1.4 var(--font-body, DM, Arial, sans-serif);transition:background .18s,color .18s,border-color .18s;text-align:center;cursor:pointer;}.ds-button-secondary:hover{background:transparent;border-color:var(--acid, #e5f16c);color:var(--acid, #e5f16c);}.ds-button-secondary:disabled{cursor:not-allowed;opacity:.5;}.ds-button-secondary:focus-visible{outline:2px solid var(--acid, #e5f16c);outline-offset:5px;}@media(prefers-reduced-motion:reduce){.ds-button-secondary{transition:none;}}.ds-button-secondary[aria-pressed=\"true\"]{border-color:var(--acid, #e5f16c);color:var(--acid, #e5f16c);}"
+    },
+    {
+      "name": "Text field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "A labeled native field; validation messages are supplied by the application.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-profile-name\">Display name</label><input id=\"ds-profile-name\" class=\"ds-input\" value=\"Alex Morgan\" maxlength=\"120\" required/><span>A sample name is enough. It appears on future demo certificates.</span></div>",
+      "css": ".ds-field{display:flex;flex-direction:column;gap:7px;font:400 1rem/1.6 var(--font-body, DM, Arial, sans-serif);}.ds-field>label,.ds-field>span{font-size:.8125rem;color:var(--silver, #b0b6ba);}.ds-input{width:100%;min-height:48px;color:var(--ivory, #f8f7f2);background:var(--surface, #222629);border:1px solid var(--line, #414547);border-radius:0;padding:12px 14px;font:400 .9375rem/1.6 var(--font-body, DM, Arial, sans-serif);caret-color:var(--acid, #e5f16c);}.ds-input::placeholder{color:var(--silver, #b0b6ba);opacity:1;}.ds-input:hover{border-color:var(--line, #414547);}.ds-input:focus-visible{outline:2px solid var(--acid, #e5f16c);outline-offset:5px;}"
+    },
+    {
+      "name": "Learner navigation",
+      "kind": "nav",
+      "refersTo": "learner-nav",
+      "description": "Wrapping workspace links with an acid current-page rule.",
+      "html": "<nav class=\"ds-learner-nav\" aria-label=\"Your workspace\"><a href=\"/my-learning/\" aria-current=\"page\">My learning</a><a href=\"/saved/\">Saved courses</a><a href=\"/notes/\">Notes</a><a href=\"/certificates/\">Certificates</a><a href=\"/profile/\">Profile</a><a href=\"/demo/\">Demo controls</a></nav>",
+      "css": ".ds-learner-nav{display:flex;gap:28px;flex-wrap:wrap;border-bottom:1px solid var(--line, #414547);font:400 .875rem/1.6 var(--font-body, DM, Arial, sans-serif);color:var(--ivory, #f8f7f2);background:var(--canvas, #151719);}.ds-learner-nav a{padding:16px 0;border-bottom:2px solid transparent;margin-bottom:-1px;color:inherit;text-decoration:none;}.ds-learner-nav a[aria-current]{border-color:var(--acid, #e5f16c);color:var(--acid, #e5f16c);}.ds-learner-nav a:hover{color:var(--acid, #e5f16c);}.ds-learner-nav a:focus-visible{outline:2px solid var(--acid, #e5f16c);outline-offset:5px;}@media(max-width:800px){.ds-learner-nav{gap:16px 25px;font-size:.8125rem;padding-block:5px}.ds-learner-nav a{padding:10px 0}}@media(max-width:520px){.ds-learner-nav{column-gap:22px;row-gap:0}.ds-learner-nav a{min-height:44px;font-size:.75rem}}"
+    },
+    {
+      "name": "Removable filter tag",
+      "kind": "chip",
+      "refersTo": "filter-tag",
+      "description": "A filter value with a native button and inline close icon.",
+      "html": "<button class=\"ds-filter-tag\" type=\"button\" aria-label=\"Remove Photography filter\">Photography<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 6 12 12M6 18 18 6\"/></svg></button>",
+      "css": ".ds-filter-tag{display:flex;align-items:center;gap:10px;background:var(--surface, #222629);color:var(--ivory, #f8f7f2);padding:8px 14px;border:1px solid var(--line, #414547);border-radius:0;min-height:44px;font:400 .8125rem/1.6 var(--font-body, DM, Arial, sans-serif);cursor:pointer;}.ds-filter-tag:hover{color:var(--ivory, #f8f7f2);}.ds-filter-tag:focus-visible{outline:2px solid var(--acid, #e5f16c);outline-offset:5px;}"
+    },
+    {
+      "name": "Course study card",
+      "kind": "card",
+      "refersTo": "course-card",
+      "description": "Unboxed course content around its actual local photograph; action behavior remains application-owned.",
+      "html": "<article class=\"ds-course-card\"><div class=\"ds-course-image\"><a href=\"/courses/light-and-shadow/\" tabindex=\"-1\" aria-hidden=\"true\"><img src=\"/images/light-shadow.webp\" alt=\"\" width=\"1200\" height=\"800\"/></a><span class=\"ds-image-label\">Photography</span><button class=\"ds-save\" type=\"button\" aria-label=\"Save Light &amp; Shadow\" aria-pressed=\"false\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M6 3h12v18l-6-4-6 4Z\"/></svg></button></div><div class=\"ds-card-meta\"><span>Beginner</span><span>3 lessons · 60s video</span></div><a class=\"ds-course-title\" href=\"/courses/light-and-shadow/\"><h3>Light &amp; Shadow</h3><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M4 12h16m-6-6 6 6-6 6\"/></svg></a><p>Use a single light source to shape a portrait or still life.</p><div class=\"ds-card-bottom\"><span>Mara Ellis</span><span>$49 <small>demo</small></span></div></article>",
+      "css": ".ds-course-card{min-width:0;color:var(--ivory, #f8f7f2);background:var(--canvas, #151719);font:400 1rem/1.6 var(--font-body, DM, Arial, sans-serif);}.ds-course-image{position:relative;aspect-ratio:1.42;overflow:hidden;background:var(--surface, #222629);}.ds-course-image>a{display:block;height:100%;}.ds-course-image img{display:block;object-fit:cover;width:100%;height:100%;transition:transform .5s cubic-bezier(.22,1,.36,1);}.ds-course-card:hover .ds-course-image img{transform:scale(1.035);}.ds-image-label{position:absolute;left:16px;bottom:16px;background:rgba(21,23,25,.86);color:var(--ivory, #f8f7f2);padding:5px 10px;font-size:.6875rem;letter-spacing:.025em;}.ds-save{position:absolute;top:14px;right:14px;display:inline-grid;place-items:center;width:44px;height:44px;background:rgba(21,23,25,.85);border:1px solid #ffffff38;border-radius:0;color:var(--ivory, #f8f7f2);cursor:pointer;}.ds-save:hover,.ds-save[aria-pressed=true]{border-color:var(--acid, #e5f16c);color:var(--acid, #e5f16c);}.ds-card-meta{display:flex;justify-content:space-between;gap:12px;font-size:.75rem;color:var(--silver, #b0b6ba);margin:18px 0 9px;}.ds-course-title{display:flex;align-items:center;justify-content:space-between;gap:8px;color:inherit;text-decoration:none;}.ds-course-title h3{margin:0;font:600 2.05rem/1.02 var(--font-display, Barlow, 'Arial Narrow', sans-serif);letter-spacing:-.015em;text-wrap:balance;}.ds-course-title:hover{color:var(--acid, #e5f16c);}.ds-course-card>p{color:var(--silver, #b0b6ba);font-size:.875rem;margin:12px 0 0;min-height:45px;max-width:42ch;}.ds-card-bottom{display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--line, #414547);padding-top:16px;margin-top:22px;font-size:.8125rem;}.ds-card-bottom>span:last-child{font-size:1.1rem;font-weight:500;}.ds-card-bottom small{font-size:.75rem;font-weight:400;color:var(--silver, #b0b6ba);}.ds-save:focus-visible{outline:2px solid var(--acid, #e5f16c);outline-offset:5px;}.ds-course-title:focus-visible{outline:2px solid var(--acid, #e5f16c);outline-offset:5px;}@media(prefers-reduced-motion:reduce){.ds-course-image img{transition:none}}@media(max-width:520px){.ds-course-image{aspect-ratio:1.5}.ds-course-title h3{font-size:2.2rem}.ds-course-card>p{min-height:0}}"
+    },
+    {
+      "name": "Workspace tabs",
+      "kind": "nav",
+      "refersTo": "workspace-tabs",
+      "description": "Static selected-state specimen of the real horizontal tablist; application code owns switching and keyboard navigation.",
+      "html": "<div class=\"ds-tabs\" role=\"tablist\" aria-label=\"Lesson workspace\"><button type=\"button\" role=\"tab\" aria-selected=\"true\">Notes</button><button type=\"button\" role=\"tab\" aria-selected=\"false\" tabindex=\"-1\">Transcript</button><button type=\"button\" role=\"tab\" aria-selected=\"false\" tabindex=\"-1\">Resources</button></div>",
+      "css": ".ds-tabs{display:flex;gap:32px;border-bottom:1px solid var(--line, #414547);background:var(--canvas, #151719);}.ds-tabs button{min-height:48px;background:none;border:0;border-bottom:2px solid transparent;border-radius:0;padding:10px 0;font:400 .875rem/1.6 var(--font-body, DM, Arial, sans-serif);color:var(--silver, #b0b6ba);cursor:pointer;}.ds-tabs button[aria-selected=true]{color:var(--ivory, #f8f7f2);border-color:var(--acid, #e5f16c);}.ds-tabs button:hover{color:var(--silver, #b0b6ba);}.ds-tabs button[aria-selected=true]:hover{color:var(--ivory, #f8f7f2);}.ds-tabs button:focus-visible{outline:2px solid var(--acid, #e5f16c);outline-offset:5px;}@media(max-width:800px){.ds-tabs{gap:28px}}@media(max-width:520px){.ds-tabs{gap:25px}.ds-tabs button{font-size:.8125rem}}"
+    },
+    {
+      "name": "Current curriculum lesson",
+      "kind": "nav",
+      "refersTo": "curriculum-link",
+      "description": "Current lesson row in the desktop curriculum rail.",
+      "html": "<a class=\"ds-rail-link\" href=\"/learn/light-and-shadow/watch-the-technique/\" aria-current=\"page\"><span>01</span><span>One light, three decisions<small>Visual lesson · 1:00</small></span></a>",
+      "css": ".ds-rail-link{display:flex;align-items:flex-start;gap:13px;padding:19px 10px;border-top:1px solid var(--line, #414547);font:400 .875rem/1.5 var(--font-body, DM, Arial, sans-serif);color:var(--ivory, #f8f7f2);text-decoration:none;}.ds-rail-link>span:first-child{color:var(--silver, #b0b6ba);padding-top:2px;}.ds-rail-link small{display:block;color:var(--silver, #b0b6ba);font-size:.6875rem;margin-top:5px;}.ds-rail-link[aria-current]{background:var(--surface, #222629);color:var(--acid, #e5f16c);}.ds-rail-link:hover{color:var(--acid, #e5f16c);}.ds-rail-link:focus-visible{outline:2px solid var(--acid, #e5f16c);outline-offset:5px;}"
+    },
+    {
+      "name": "Certificate paper",
+      "kind": "custom",
+      "refersTo": "certificate-paper",
+      "description": "Screen certificate specimen with a fictional name and placeholder issuance details. PNG and print use separate source renderers.",
+      "html": "<article class=\"ds-certificate\"><div class=\"ds-certificate-brand\"><svg width=\"34\" height=\"34\" viewBox=\"0 0 40 40\" fill=\"none\" aria-hidden=\"true\"><path d=\"M3 15V3h12m10 0h12v12m0 10v12H25m-10 0H3V25\" stroke=\"currentColor\" stroke-width=\"2.5\"/><path d=\"M15 15h10v10H15z\" fill=\"currentColor\"/></svg>FRAME ACADEMY</div><div class=\"ds-certificate-rule\"></div><h1>A STUDY, COMPLETED.</h1><p>This demo completion certificate is presented to</p><div class=\"ds-certificate-name\">Alex Morgan</div><p>for completing the three lessons and final quiz in</p><h2>Light &amp; Shadow</h2><div class=\"ds-certificate-details\">Illustrative local issuance details</div><p class=\"ds-certificate-disclaimer\">Demo completion certificate — portfolio project; not accredited</p></article>",
+      "css": ".ds-certificate{background:var(--ivory, #f8f7f2);color:var(--ink, #151719);padding:60px;position:relative;min-height:625px;display:flex;flex-direction:column;align-items:center;text-align:center;border:14px solid #dedfd6;outline:1px solid var(--line, #414547);outline-offset:8px;margin:35px 0;font:400 1rem/1.6 var(--font-body, DM, Arial, sans-serif);}.ds-certificate-brand{font:600 1.2rem/1.6 var(--font-display, Barlow, 'Arial Narrow', sans-serif);letter-spacing:.09em;display:flex;gap:12px;align-items:center;}.ds-certificate-rule{height:5px;width:64px;background:#78802c;margin:32px 0;}.ds-certificate h1{font:600 3.8rem/1.02 var(--font-display, Barlow, 'Arial Narrow', sans-serif);letter-spacing:-.015em;text-wrap:balance;margin:0;}.ds-certificate>p{color:var(--ink, #151719);font-size:.875rem;margin:18px 0 0;}.ds-certificate-name{font:500 clamp(1.5rem,3vw,2.5rem)/1.25 var(--font-body, DM, Arial, sans-serif);max-width:900px;overflow-wrap:anywhere;margin:20px 0 5px;}.ds-certificate h2{font:600 2.9rem/1.02 var(--font-display, Barlow, 'Arial Narrow', sans-serif);letter-spacing:-.015em;text-wrap:balance;margin:18px 0 30px;}.ds-certificate-details{font-size:.75rem;color:#545850;margin-top:auto;}.ds-certificate .ds-certificate-disclaimer{font-size:.8125rem;line-height:1.5;max-width:100%;color:var(--ink, #151719);font-weight:500;margin-top:20px;}@media(max-width:800px){.ds-certificate{padding:40px 30px;min-height:600px;}.ds-certificate h1{font-size:3.3rem;}}@media(max-width:520px){.ds-certificate{margin:25px 5px 30px;min-height:570px;padding:27px 17px;border-width:7px;outline-offset:4px;}.ds-certificate h1{font-size:2.6rem;}.ds-certificate-name{font-size:1.45rem;}.ds-certificate h2{font-size:2.4rem;}.ds-certificate-brand{font-size:.9375rem;}.ds-certificate-details,.ds-certificate .ds-certificate-disclaimer{font-size:.6875rem;overflow-wrap:anywhere;}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "A film publication, a learning studio",
+    "overview": "Direction A is cinematic, direct, and serious about visual craft. Original generated photographic studies carry the identity: directional light, visible shadow, natural fictional portraits, deliberate negative space, and restrained color. The open-frame mark and condensed lettering provide a crisp editorial signature. Photography stays substantial beside the type.\n\nThe same visual world supports expressive public pages and quiet learner tools. Public compositions give real lesson work room to lead; the learning studio reduces display scale and uses readable text, aligned rows, native controls, and clear local status. Charcoal surfaces and ivory lettering stay consistent across both. The earned certificate intentionally reverses them onto paper. No glow, glass, autoplay, or decorative feature grids belong to this direction.",
+    "keyCharacteristics": [
+      "Original photographic studies, reused coherently across each course and its learning materials.",
+      "Barlow Condensed display lettering paired with comfortable DM Sans reading and controls.",
+      "Charcoal and ivory with restrained acid yellow for emphasis, action, and progress.",
+      "Square forms, fine rules, mostly unboxed content, and tonal separation without shadows.",
+      "Deliberate playback, visible keyboard focus, reduced-motion support, and plain status text."
+    ],
+    "rules": [
+      {
+        "name": "The Accent Has a Job Rule",
+        "body": "Use acid to direct attention or explain state; keep long reading copy in silver or ivory.",
+        "section": "colors"
+      },
+      {
+        "name": "The Reading Voice Rule",
+        "body": "Keep instructional paragraphs, forms, transcripts, and operating labels in DM Sans; condensed type supplies identity and hierarchy.",
+        "section": "typography"
+      },
+      {
+        "name": "The Tonal Depth Rule",
+        "body": "Separate content with spacing, a surface change, or a fine rule; do not add glass, glow, or decorative shadows.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Visible Focus Rule",
+        "body": "Preserve the global two-pixel acid focus outline and five-pixel offset, including on text actions and native fields.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "**Do** preserve cinematic direction A, the bundled font pairing, and the original frame mark.",
+      "**Do** give genuine lesson material and original generated photography a visible role, with consistent course imagery and fictional-persona disclosure.",
+      "**Do** use acid for emphasis, actions, focus, selection, and progress, with text or icon cues for meaning.",
+      "**Do** keep lessons comfortable to read, preserve native media and form controls, and let action groups wrap on small screens.",
+      "**Do** retain local-save, loading, empty, error, and completion messages with useful recovery actions.",
+      "**Do** keep certificate names, references, and demo disclosures legible in screen, PNG, and print compositions."
+    ],
+    "donts": [
+      "**Don't** replace the pinned photographic identity with gradients, glass, glow, decorative feature grids, or a generic rounded-card system.",
+      "**Don't** use condensed display lettering for instructional paragraphs or routine form controls.",
+      "**Don't** add autoplay, scroll hijacking, entry delays, or motion that ignores reduced-motion preference.",
+      "**Don't** treat simulated enrollment, generated portraits, or demo certificates as evidence of real clients, credentials, accreditation, or a live teaching community.",
+      "**Don't** assume a uniform 44px minimum for every compact header control, a global 65ch text measure, or identical certificate pixels across export formats; preserve the implemented contextual behavior."
+    ]
+  }
+}

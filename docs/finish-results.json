@@ -1,0 +1,13 @@
+{
+  "browser": "152.0.7977.83",
+  "base": "http://127.0.0.1:4173",
+  "checks": [
+    "Whitespace-only profile names are rejected without changing saved identity",
+    "Desktop/mobile quiz captures show the same submitted state without focused skip-link artifacts",
+    "Certificate print root uses a light page background and the real PNG export remains 1800×1200",
+    "Maximum-length spaced and unbroken certificate names export as real PNGs and avoid mobile overflow",
+    "Native video enters and exits the browser Fullscreen API in tested Chrome"
+  ],
+  "errors": [],
+  "verifiedAt": "2026-09-10T07:50:45.179Z"
+}

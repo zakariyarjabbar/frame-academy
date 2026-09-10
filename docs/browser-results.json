@@ -1,0 +1,316 @@
+{
+  "browser": "152.0.7977.83",
+  "base": "http://127.0.0.1:4173",
+  "checks": [
+    "Keyboard skip link and public homepage",
+    "Catalog filters/search/sort, URL persistence, empty results and saved courses",
+    "Actual H.264 preview playback before enrollment",
+    "Credential-free enrollment, persistent confirmation and duplicate receipt reuse",
+    "Seek, speed, mute/volume, captions, playhead restore, notes CRUD and bookmarks",
+    "Global note search/filter, Markdown download and timestamp navigation",
+    "Manual video, explicit reading and validated practice completion; certificate remains gated",
+    "Quiz draft, required answers, failed explanations, retry and certificate award",
+    "Actual certificate PNG download and browser print-to-PDF",
+    "Profile edits preserve issued certificate snapshots",
+    "Local support request and Demo viewer",
+    "Six distinct MP4 files decode and advance in Chrome",
+    "Real ended completion and consistent confirmed course reset",
+    "Separate browser contexts have independent records",
+    "Cross-tab saved-course updates",
+    "Corrupt storage recovery and app-scoped reset",
+    "Disabled/quota storage and explicit temporary access",
+    "Media failure provides retry and transcript recovery",
+    "1440/1024/768/390/360px routes, overflow checks and mobile navigation",
+    "200% homepage text sizing and reduced-motion behavior",
+    "Unknown slugs and missing receipt states"
+  ],
+  "media": [
+    {
+      "id": "light-shadow",
+      "duration": 60,
+      "width": 1280,
+      "height": 720,
+      "codecSupported": "probably"
+    },
+    {
+      "id": "composition-motion",
+      "duration": 60,
+      "width": 1280,
+      "height": 720,
+      "codecSupported": "probably"
+    },
+    {
+      "id": "portraits-presence",
+      "duration": 60,
+      "width": 1280,
+      "height": 720,
+      "codecSupported": "probably"
+    },
+    {
+      "id": "short-film",
+      "duration": 60,
+      "width": 1280,
+      "height": 720,
+      "codecSupported": "probably"
+    },
+    {
+      "id": "color-mood",
+      "duration": 60,
+      "width": 1280,
+      "height": 720,
+      "codecSupported": "probably"
+    },
+    {
+      "id": "edit-story",
+      "duration": 60,
+      "width": 1280,
+      "height": 720,
+      "codecSupported": "probably"
+    }
+  ],
+  "a11y": [
+    {
+      "name": "dashboard-desktop",
+      "violations": []
+    },
+    {
+      "name": "player-desktop",
+      "violations": []
+    },
+    {
+      "name": "home-1440",
+      "violations": []
+    },
+    {
+      "name": "course-1440",
+      "violations": []
+    },
+    {
+      "name": "home-390",
+      "violations": []
+    },
+    {
+      "name": "course-390",
+      "violations": []
+    },
+    {
+      "name": "quiz-mobile",
+      "violations": []
+    }
+  ],
+  "metrics": [
+    {
+      "name": "player-desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "lcpMs": 36,
+      "cls": 0.0004962594265407986,
+      "domContentLoadedMs": 7.799999997019768,
+      "resourceTransferBytes": 1114264,
+      "requests": 55
+    },
+    {
+      "name": "home-1440",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "lcpMs": 28,
+      "cls": 0.0013175034360532406,
+      "domContentLoadedMs": 6.600000001490116,
+      "resourceTransferBytes": 1589548,
+      "requests": 56
+    },
+    {
+      "name": "course-1440",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "lcpMs": 28,
+      "cls": 0,
+      "domContentLoadedMs": 6.600000001490116,
+      "resourceTransferBytes": 1302308,
+      "requests": 45
+    },
+    {
+      "name": "home-390",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "lcpMs": 32,
+      "cls": 0.00005259915156719474,
+      "domContentLoadedMs": 6.800000004470348,
+      "resourceTransferBytes": 1500425,
+      "requests": 41
+    },
+    {
+      "name": "course-390",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "lcpMs": 28,
+      "cls": 0.048309829250306247,
+      "domContentLoadedMs": 7,
+      "resourceTransferBytes": 1215004,
+      "requests": 34
+    }
+  ],
+  "overflow": [
+    {
+      "name": "home",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1440
+    },
+    {
+      "name": "course",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1440
+    },
+    {
+      "name": "player",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1440
+    },
+    {
+      "name": "dashboard",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1440
+    },
+    {
+      "name": "catalog",
+      "width": 1440,
+      "viewport": 1440,
+      "scroll": 1440
+    },
+    {
+      "name": "home",
+      "width": 1024,
+      "viewport": 1024,
+      "scroll": 1024
+    },
+    {
+      "name": "course",
+      "width": 1024,
+      "viewport": 1024,
+      "scroll": 1024
+    },
+    {
+      "name": "player",
+      "width": 1024,
+      "viewport": 1024,
+      "scroll": 1024
+    },
+    {
+      "name": "dashboard",
+      "width": 1024,
+      "viewport": 1024,
+      "scroll": 1024
+    },
+    {
+      "name": "catalog",
+      "width": 1024,
+      "viewport": 1024,
+      "scroll": 1024
+    },
+    {
+      "name": "home",
+      "width": 768,
+      "viewport": 768,
+      "scroll": 768
+    },
+    {
+      "name": "course",
+      "width": 768,
+      "viewport": 768,
+      "scroll": 768
+    },
+    {
+      "name": "player",
+      "width": 768,
+      "viewport": 768,
+      "scroll": 768
+    },
+    {
+      "name": "dashboard",
+      "width": 768,
+      "viewport": 768,
+      "scroll": 768
+    },
+    {
+      "name": "catalog",
+      "width": 768,
+      "viewport": 768,
+      "scroll": 768
+    },
+    {
+      "name": "home",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390
+    },
+    {
+      "name": "course",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390
+    },
+    {
+      "name": "player",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390
+    },
+    {
+      "name": "dashboard",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390
+    },
+    {
+      "name": "catalog",
+      "width": 390,
+      "viewport": 390,
+      "scroll": 390
+    },
+    {
+      "name": "home",
+      "width": 360,
+      "viewport": 360,
+      "scroll": 360
+    },
+    {
+      "name": "course",
+      "width": 360,
+      "viewport": 360,
+      "scroll": 360
+    },
+    {
+      "name": "player",
+      "width": 360,
+      "viewport": 360,
+      "scroll": 360
+    },
+    {
+      "name": "dashboard",
+      "width": 360,
+      "viewport": 360,
+      "scroll": 360
+    },
+    {
+      "name": "catalog",
+      "width": 360,
+      "viewport": 360,
+      "scroll": 360
+    }
+  ],
+  "errors": []
+}

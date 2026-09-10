@@ -1,0 +1,17 @@
+[
+  {
+    "file": "docs/downloads/certificate-long-name.pdf",
+    "pages": 1,
+    "disclaimerPresent": true
+  },
+  {
+    "file": "docs/downloads/certificate-unbroken-name.pdf",
+    "pages": 1,
+    "disclaimerPresent": true
+  },
+  {
+    "file": "docs/downloads/demo-certificate-print.pdf",
+    "pages": 1,
+    "disclaimerPresent": true
+  }
+]
